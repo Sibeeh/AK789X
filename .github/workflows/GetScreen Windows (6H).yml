@@ -1,6 +1,4 @@
-name: GetScreen Windows (6H)
-
-on: 
+name: GetScreen Windows (6H) 
   
 
 jobs:
