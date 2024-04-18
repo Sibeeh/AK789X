@@ -1,6 +1,6 @@
 name: GetScreen Windows (6H)
 
-on:
+on: Workflow dispatch
   
 
 jobs:
