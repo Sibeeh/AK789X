@@ -1,7 +1,7 @@
 name: GetScreen Windows (6H)
 
 on:
-  workflow_dispatch:
+  
 
 jobs:
   build:
